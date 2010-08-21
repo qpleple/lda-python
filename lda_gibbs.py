@@ -1,4 +1,6 @@
 """
+(C) Mathieu Blondel - 2010
+
 Implementation of the collapsed Gibbs sampler for
 Latent Dirichlet Allocation, as described in
 
